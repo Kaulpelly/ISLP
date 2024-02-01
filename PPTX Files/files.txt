@@ -1,0 +1,27 @@
+ Volume in drive D is 1TB SSD
+ Volume Serial Number is 201E-8990
+
+ Directory of D:\Scripts\ISLP\PPTX Files
+
+01/02/2024  14:24    <DIR>          .
+01/02/2024  14:24    <DIR>          ..
+01/02/2024  14:13        15,917,067 Ch10_Deep_Learning.pptx
+01/02/2024  14:13        13,652,900 Ch11_Survival_Analysis.pptx
+01/02/2024  14:13         7,336,907 Ch12_Unsupervised_Learning.pptx
+01/02/2024  14:13        10,562,239 Ch13_Multiple_Testing.pptx
+01/02/2024  14:13         8,294,634 Ch1_Introduction.pptx
+01/02/2024  14:19         3,968,696 Ch2_Statistical_Learning.pptx
+01/02/2024  14:14         6,071,692 Ch3_Linear_Regression.pptx
+01/02/2024  14:14         8,586,451 Ch4_Classification.pptx
+01/02/2024  14:14         6,659,883 Ch5_Resampling_Methods.pptx
+01/02/2024  14:14         6,997,768 Ch6_Model_Selection.pptx
+01/02/2024  14:14         4,900,865 Ch7_Moving_Beyond_Linearity.pptx
+01/02/2024  14:14         6,172,530 Ch8_Tree_Based_Methods.pptx
+01/02/2024  14:14         3,408,855 Ch9_Support_Vector_Machines.pptx
+01/02/2024  14:25                 0 files.txt
+01/02/2024  14:13    <DIR>          low_res
+
+ Directory of D:\Scripts\ISLP\PPTX Files
+
+              14 File(s)    102,530,487 bytes
+               3 Dir(s)  44,342,366,208 bytes free
